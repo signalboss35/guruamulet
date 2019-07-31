@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/scss/bootstrap";
+@import "./responsive";
+@import '~bootstrap/scss/mixins/_breakpoints';
+
+body{
+    font-family: 'db_helvethaicaais_x55_regular';
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

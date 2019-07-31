@@ -1,0 +1,17 @@
+.main-container {
+    // margin-left: 17%;
+    margin-top: 12%;
+    // margin-right: 1%;
+    -ms-overflow-x: hidden;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  @media screen and (max-width: 992px) {
+    .main-container {
+      // margin-left: 0px !important;
+      padding-left: 1%;
+    }
+  }
